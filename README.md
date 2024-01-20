@@ -31,10 +31,10 @@ Alex Williams 🚀
 
 ---
 
-### 💻 Algoritmic skills:
+### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/sadbatya/badges/large)
-![leetcode](https://leetcode.com/users/SadBatya/badges/large)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
