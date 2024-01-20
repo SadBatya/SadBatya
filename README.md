@@ -2,6 +2,10 @@
 
 ### Glad to see you here!
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 👋 I'm a frontend developer experienced in React, Next.js, and Vue.js. My creative ideas bring dynamism to web projects.
 
 💻 While I primarily focus on frontend, my skills also include Node.js and working with MongoDB. I'm ready to collaborate across the full stack.
@@ -21,7 +25,7 @@ Alex Williams 🚀
 
 <img align="right" alt="GIF" src="https://github.com/ElizavetaBiryukova/ElizavetaBiryukova/assets/66876270/cc00eb2f-126a-4090-8e3a-3aa475367ed2?raw=true" width="326" height="254" />
 
-<img src="https://github.com/SadBatya/SadBatya/blob/main/giphy%20(1).gif?raw=true" width="30" />&nbsp;&nbsp; How to reach me: alexwilliamsitdev@gmail.com;
+<img src="./assets/giphyy.gif" width="30" />&nbsp;&nbsp; How to reach me: alexwilliamsitdev@gmail.com;
 
 </br>
 
