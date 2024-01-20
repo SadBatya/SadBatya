@@ -1,10 +1,12 @@
-### <samp>&gt; Hi there, I'm <a href="https://my-website-5k8k5lnta-sadbatya.vercel.app/" target="_blank">Alex Williams</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi there, I'm <a href="https://my-website-5k8k5lnta-sadbatya.vercel.app/" target="_blank">Alex Williams</a> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25"> </samp>
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://my-website-5k8k5lnta-sadbatya.vercel.app/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sadbatya/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sadbatya)
 [![Vk Badge](https://img.shields.io/badge/-Vk-ff8200?style=flat-square&logo=Vk&logoColor=white)](https://vk.com/sadbatya)
-[![Linkedin](https://img.shields.io/badge/-Vk-ff8200?style=flat-square&logo=Vk&logoColor=white)](https://vk.com/sadbatya)
+[![Codewars](https://img.shields.io/website?url=codewars)](https://www.codewars.com/users/sadbatya)
+
+
 
 ### Glad to see you here! &nbsp;
 
