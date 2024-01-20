@@ -4,7 +4,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sadbatya/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sadbatya)
 [![Vk Badge](https://img.shields.io/badge/-Vk-ff8200?style=flat-square&logo=Vk&logoColor=white)](https://vk.com/sadbatya)
-[![Codewars](https://img.shields.io/website?url=codewars)](https://www.codewars.com/users/sadbatya)
+![CodeWars](https://img.shields.io/website?url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fsadbatya&style=plastic&logo=codewars&logoColor=red&labelColor=black&color=black)
+
 
 
 
