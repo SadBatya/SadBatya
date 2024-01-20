@@ -1,5 +1,19 @@
 ### <samp>&gt; Hi there, I'm <a href="https://my-website-5k8k5lnta-sadbatya.vercel.app/" target="_blank">Alex Williams</a> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25"> </samp>
 
+### Glad to see you here!  
+Hello, world!
+
+👋 I'm <a href="https://my-website-5k8k5lnta-sadbatya.vercel.app/" target="_blank">Alex Williams</a> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25">, a frontend developer experienced in React, Next.js, and Vue.js. My creative ideas bring dynamism to web projects.
+
+💻 While I primarily focus on frontend, my skills also include Node.js and working with MongoDB. I'm ready to collaborate across the full stack.
+
+🚀 Specializing in crafting aesthetic and functional websites on Tilda and WordPress for swift business solutions.
+
+Let's bring your ideas to life!
+
+Best regards,
+Alex Williams 🚀  
+
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://my-website-5k8k5lnta-sadbatya.vercel.app/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sadbatya/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sadbatya)
@@ -16,7 +30,7 @@ I'm a frontend developer.
 <img align="right" alt="GIF" src="https://github.com/ElizavetaBiryukova/ElizavetaBiryukova/assets/66876270/cc00eb2f-126a-4090-8e3a-3aa475367ed2?raw=true" width="326" height="254" />
 
 
-<img src="https://github.com/ElizavetaBiryukova/ElizavetaBiryukova/blob/main/giphy%20(1).gif?raw=true" width="30" />&nbsp;&nbsp; How to reach me: birliza@mail.ru;
+<img src="https://github.com/SadBatya/SadBatya/blob/main/giphy%20(1).gif?raw=true" width="30" />&nbsp;&nbsp; How to reach me: alexwilliamsitdev@gmail.com;
 
 </br>
 
