@@ -3,7 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://my-website-5k8k5lnta-sadbatya.vercel.app/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sadbatya/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sadbatya)
-[![CodeWars](https://img.shields.io/codewars?url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fsadbatya&style=plastic&logo=codewars&logoColor=red&labelColor=black&color=black)](https://www.codewars.com/users/sadbatya)
+[![CodeWars](https://img.shields.io/website?url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fsadbatya&up_message=sadbatya&style=plastic&logo=codewars&logoColor=red&label=codewars&labelColor=black&color=black)](https://www.codewars.com/users/sadbatya)
 
 
 
