@@ -27,9 +27,9 @@ Alex Williams 🚀
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
 
-## Languages and Tools
+
+### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -65,3 +65,26 @@ Alex Williams 🚀
 </div>
 
 <br/>
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sadbatya&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadbatya&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=sadbatya&&style=flat-square)  
+  
+
+<br/>  
