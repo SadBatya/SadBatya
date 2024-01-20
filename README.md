@@ -23,7 +23,7 @@ Alex Williams 🚀
 [![CodeWars](https://img.shields.io/website?url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fsadbatya&up_message=sadbatya&style=flat&logo=codewars&logoColor=red&label=codewars&labelColor=black&color=black)](https://www.codewars.com/users/sadbatya)
 [![Leetcode](https://img.shields.io/website?url=https%3A%2F%2Fleetcode.com%2FSadBatya%2F&up_message=sadbatya&style=flat&logo=leetcode&logoColor=orange&label=leetcode&labelColor=blue&color=black)](https://leetcode.com/SadBatya/)
 
-<img align="right" alt="GIF" src="./assets/giphymen.gif" width="326" height="254" />
+<img align="right" alt="GIF" src="./assets/giphymen.gif" width="400" height="400" />
 
 <img src="./assets/giphyy.gif" width="30" />&nbsp;&nbsp; How to reach me: alexwilliamsitdev@gmail.com;
 
