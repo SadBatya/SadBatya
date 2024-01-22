@@ -25,7 +25,7 @@ Alex Williams 🚀
 
 <img align="right" alt="GIF" src="./assets/giphymen.gif" width="400" height="400" />
 
-<img src="./assets/giphyy.gif" width="30" />&nbsp;&nbsp; How to reach me: alexwilliamsitdev@gmail.com;
+<img src="./assets/giphyy.gif" width="10" />&nbsp;&nbsp; How to reach me: alexwilliamsitdev@gmail.com;
 
 </br>
 
