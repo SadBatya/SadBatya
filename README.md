@@ -1,4 +1,4 @@
-### <samp>&gt; Hello, world!, I'm <a href="https://my-website-5k8k5lnta-sadbatya.vercel.app/" target="_blank">Vlad Skripnik</a> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hello, world!, I'm <a href="https://my-website-5k8k5lnta-sadbatya.vercel.app/" target="_blank">Vladimir</a> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="25"> </samp>
 
 ### Glad to see you here!
 
@@ -15,7 +15,7 @@
 Let's bring your ideas to life!
 
 Best regards,
-Vlad Skripnik 🚀
+Vladimir Skripnik 🚀
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://my-website-5k8k5lnta-sadbatya.vercel.app/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sadbatya/)
