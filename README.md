@@ -17,7 +17,7 @@ Let's bring your ideas to life!
 Best regards,
 Vladimir Skripnik 🚀
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://my-website-5k8k5lnta-sadbatya.vercel.app/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sadbatya.ru/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sadbatya/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sadbatya)
 [![CodeWars](https://img.shields.io/website?url=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fsadbatya&up_message=sadbatya&style=flat&logo=codewars&logoColor=red&label=codewars&labelColor=black&color=black)](https://www.codewars.com/users/sadbatya)
